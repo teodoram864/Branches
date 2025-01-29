@@ -1,3 +1,3 @@
-feature2
+Feature same line
 
 
